@@ -17,5 +17,6 @@ for(i=0;i<n;i++)
 // take array elements input
 }
 printf("sum of the elements of this array is %d", sum(arr, n));
+printf("Rokonuzzaman");
 return 0;
 }
